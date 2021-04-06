@@ -9,12 +9,17 @@ contributor:
     agent_name: Enklaar, W.F.P.
     gutenberg_agent_id: '53129'
     url: http://www.gutenberg.org/2009/agents/53129
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hamerling, Robert
     gutenberg_agent_id: '53128'
     url: http://www.gutenberg.org/2009/agents/53128
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64986#Aspasia
 gutenberg_issued: '2021-04-03'
 gutenberg_type: Text
 identifiers:
